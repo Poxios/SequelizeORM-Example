@@ -1,0 +1,16 @@
+{
+  "name": "SequelizeORM-Example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Poxios/SequelizeORM-Example.git",
+  "author": "Poxios <poxios0310@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.ts"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1"
+  }
+}
